@@ -22,7 +22,7 @@ Node.js assignment incorporates user authentication, role-based access control, 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Amit-Singh-14/Nodejs-assignment-User-Admin-API.git
+   git clone https://github.com/Amit-Singh-14/Nodejs-User-Admin-API.git
    ```
 
 2. Install dependencies
