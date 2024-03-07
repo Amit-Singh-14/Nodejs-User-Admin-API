@@ -1,4 +1,4 @@
-# NodeJS Assigment (User-Admin API)
+# NodeJS Project (User-Admin API)
 
 Node.js assignment incorporates user authentication, role-based access control, and secure APIs. It features functionalities like user management, admin capabilities, and ensures data integrity through data validation, utilizing Express.js and offering a choice between MongoDB or Firebase as the database storing images on cloudinary and accessing form data using multer.
 
