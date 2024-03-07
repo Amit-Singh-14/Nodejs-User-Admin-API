@@ -36,7 +36,10 @@ Node.js assignment incorporates user authentication, role-based access control, 
    ```
    (Add all secret, keys, names based on .env.sample)
    ```
-
+5. **Important: Create .env file with refrence to .env.sample**
+   ```
+   Create Cloudinary account and add Name, API and Secret key from geating started page.
+   ```
 4. Run to Start server
    ```
    npm run dev
